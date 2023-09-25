@@ -1,1 +1,1 @@
-<object data="./TAU-Selenium WebDriver.jpg">
+TAU-Selenium WebDriver.jpg
